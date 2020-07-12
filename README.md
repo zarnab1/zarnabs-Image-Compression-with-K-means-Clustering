@@ -29,24 +29,24 @@ I am using image uploader to select the image of choice of viewer.
 <br>
 # Task 1: Importing Libraries
 <br>
-## importing the libraries , import all the libraries which are mentioned earlier. these libraries will process the image and will help to process image in cluster using K-Means
+importing the libraries , import all the libraries which are mentioned earlier. these libraries will process the image and will help to process image in cluster using K-Means
 <br>
 # Task 2: Data Preprocessing
 <br>
-## In this task the work is started. we take a sample image and process it. we reshape it , and calculate the color intensity of that image.
+ In this task the work is started. we take a sample image and process it. we reshape it , and calculate the color intensity of that image.
 
 <br>
 # Task 3: Visualizing the Color Space using Point Clouds
 <br>
-## now this is the visualization phase. in this phase, all the colors and differnet intensities of those colors are shown in scatter graph. as shown in the pic
+ now this is the visualization phase. in this phase, all the colors and differnet intensities of those colors are shown in scatter graph. as shown in the pic
 
 # Task 4: Visualizing the K-means Reduced Color Space
 <br> 
-## now in this phase the color space is reduced of the image. this is the main phase. Images are compressed for several reason. sometimes cuz of less storage, sometimes to save it in back up and sometime to get protected it from disortion. we are also compressing an image in it
+ now in this phase the color space is reduced of the image. this is the main phase. Images are compressed for several reason. sometimes cuz of less storage, sometimes to save it in back up and sometime to get protected it from disortion. we are also compressing an image in it
 
 # Task 5: K-means Image Compression with Interactive Controls
 <br>
-## now this is my favourite part, when we make whole of the project interactive. in this part user is allowed to selected any image of its choice and can process it upto his wish from the scale of 1-16. 
+ now this is my favourite part, when we make whole of the project interactive. in this part user is allowed to selected any image of its choice and can process it upto his wish from the scale of 1-16. 
 
 
 
