@@ -1,3 +1,4 @@
+![alt text](https://https://miro.medium.com/max/700/1*n1Tw2C6NRb6bXzvNG9OhGQ.png)
 # zarnabs-Image-Compression-with-K-means-Clustering
 This project is about the compression of images using k means. 
 
