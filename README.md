@@ -3,6 +3,7 @@ This project is about the compression of images using k means.
 
 <br>
 # Requirements 
+<br>
 # Python IDE with the following libraries
 
 ## The required libraries for the project are: 
@@ -25,9 +26,11 @@ I am using image uploader to select the image of choice of viewer.
 # Procedure of project
 <br> 
 ## To have the clear knowledge of project. project is divided into 4 main task. i will describe them one by one. 
+<br>
 # Task 1: Importing Libraries
 <br>
 ## importing the libraries , import all the libraries which are mentioned earlier. these libraries will process the image and will help to process image in cluster using K-Means
+<br>
 # Task 2: Data Preprocessing
 <br>
 ## In this task the work is started. we take a sample image and process it. we reshape it , and calculate the color intensity of that image.
