@@ -24,10 +24,10 @@ I am using slider to select the cluster range from 1 to 16.
 I am using image uploader to select the image of choice of viewer.
 
 # Procedure of project
-<br> 
+
 ### To have the clear knowledge of project. project is divided into 4 main task. i will describe them one by one. 
 
-## Task 1: Importing Libraries
+# Task 1: Importing Libraries
 <br>
 importing the libraries , import all the libraries which are mentioned earlier. these libraries will process the image and will help to process image in cluster using K-Means
 
