@@ -30,12 +30,11 @@ I am using image uploader to select the image of choice of viewer.
 ## Task 1: Importing Libraries
 <br>
 ### importing the libraries , import all the libraries which are mentioned earlier. these libraries will process the image and will help to process image in cluster using K-Means
-<br>
+
 # Task 2: Data Preprocessing
 <br>
  In this task the work is started. we take a sample image and process it. we reshape it , and calculate the color intensity of that image.
 
-<br>
 # Task 3: Visualizing the Color Space using Point Clouds
 <br>
  now this is the visualization phase. in this phase, all the colors and differnet intensities of those colors are shown in scatter graph. as shown in the pic
