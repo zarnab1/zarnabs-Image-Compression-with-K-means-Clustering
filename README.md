@@ -1,4 +1,4 @@
-![alt text](https://https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0a/728ea3e8ab43b2b2be7c926d1e385d/img-7a5bdf17-8e25-480b-a13c-f5fa7e722ec2-a2a3268a-11bb-4511-9268-a4b4ae74e212-TvmJPbfa-20200313095917.jpg?auto=format%2Ccompress&dpr=1&w=552&h=414&fit=crop.jpg)
+
 # zarnabs-Image-Compression-with-K-means-Clustering
 This project is about the compression of images using k means. 
 
