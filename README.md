@@ -34,6 +34,8 @@ I am using image uploader to select the image of choice of viewer.
 # Task 2: Data Preprocessing
 <br>
 ## In this task the work is started. we take a sample image and process it. we reshape it , and calculate the color intensity of that image.
+
+<br>
 # Task 3: Visualizing the Color Space using Point Clouds
 <br>
 ## now this is the visualization phase. in this phase, all the colors and differnet intensities of those colors are shown in scatter graph. as shown in the pic
